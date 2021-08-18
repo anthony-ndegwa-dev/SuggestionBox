@@ -46,14 +46,11 @@ select {
 	color: white;
 	padding-bottom: 1px;
 }
-
-
 .mino{
 	color: white;
 	background-color: #033;
 	text-align: center;
 }
-
 .pagination {
 	float: right;
 }
@@ -76,7 +73,6 @@ select {
 	color: #fff;
 	border: 1px solid #fff;
 }
-
 textarea.teco{
 	color: #fff;
 	background-color: #013;
@@ -89,7 +85,6 @@ textarea.teco{
   	margin: 0;
   	box-shadow: 2px 2px 0px 0px;
 }
-
 .edit_btn {
     text-decoration: none;
     padding: 2px 5px;
@@ -97,7 +92,6 @@ textarea.teco{
     color: white;
     border-radius: 3px;
  }
-
  .del_btn {
     text-decoration: none;
     padding: 2px 5px;
@@ -105,7 +99,6 @@ textarea.teco{
     border-radius: 3px;
     background: #800000;
 }
-
 .label-input100 {
 	color: #003333;
 }
