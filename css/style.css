@@ -116,7 +116,6 @@ textarea.teco{
 	/*background:#ccc;*/
 	color: #000;
 }
-
 /* Full-width inputs */
 input[type=text], input[type=password], input[type=email] {
   width: 60%;
@@ -129,12 +128,10 @@ input[type=text], input[type=password], input[type=email] {
   margin: 10px 0px 15px 0px;
   box-shadow: 3px 3px 10px 3px;
 }
-
 .teco{
 	background-color: whitesmoke;
 
 }
-
 
 /* Set a style for all buttons */
 button {
