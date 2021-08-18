@@ -8,10 +8,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
-
 </head>
 <body>
-
 	<div class="container-contact100">
 		<div class="wrap-contact100">
 			<form class="contact100-form validate-form" method="post" action="submit.php" autocomplete="off">
@@ -20,7 +18,6 @@
 				<div class="container-contact100-form-btn">
 					<a href="login.php" class="contact100-form-btn">Admin Login</a>			
 				</div>
-				    
 
 				<label class="label-input100">Matter</label>
 				<div class="wrap-input100 validate-input" >
@@ -62,7 +59,6 @@
 					<textarea id="message" class="input100" name="message" placeholder="Write Here" required></textarea>
 					<span class="focus-input100"></span>
 				</div>
-			
 					<button class="btn btn-primary" name="submit">
 						Submit
 					</button>
