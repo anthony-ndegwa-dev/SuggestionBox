@@ -7,7 +7,6 @@ body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;color:
 form {
   border: 2px solid #cccc99;
   background: linear-gradient(to right, #033, #fff, #033);
-  /*background-image: url("img/1.jpg");*/
   border-radius: 14px;
   padding: 8px 15px 8px 15px;
   margin: 10px 0px 15px 3px;
