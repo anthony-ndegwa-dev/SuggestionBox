@@ -21,7 +21,6 @@
 </head>
 <body>
 
-
 	<div class="container-contact100">
 		<div class="wrap-contact100">
 			
@@ -37,8 +36,6 @@
 				<div>
 					<p>Complements, Complaints and Suggestions</p><br>
 				</div>
-				
-				
 				    <span style="color:green">
 				    <?php if(isset($_GET['msg']))
 				    echo $_GET['msg'];
@@ -51,7 +48,6 @@
 				    ?>
 				    	
 				    </span>
-
 				<table class="major">
 						<tr class="brick">
 						<th>Matter</th>
@@ -85,11 +81,9 @@
 			</form>
 
 			<div class="contact100-more flex-col-c-m bg-dark" >
-
 				
 			</div>
 		</div>
 	</div>
-
 </body>
 </html>
