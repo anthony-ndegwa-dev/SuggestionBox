@@ -3,7 +3,6 @@ session_start();
 
 require_once("connect.php");
 
-
 if (isset($_POST['submit'])) {
    $username = $_POST['username'];
    $password = md5($_POST['password']);
