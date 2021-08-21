@@ -160,7 +160,6 @@ span.psw {
 	position: relative;
 	min-height: 100vh
 }
-
 .content-wrap{
 	padding-bottom: 14.5rem;
 }
@@ -187,8 +186,7 @@ span.psw {
 	.contact100-form {
 		width: 100%;
 		/*margin: 10px 1px 10px 1px;*/
-	}
-	
+	}	
 }
 
 @media screen and (max-width: 900px) {
