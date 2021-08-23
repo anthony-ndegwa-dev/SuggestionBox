@@ -106,7 +106,7 @@ textarea.teco {
     padding: 8px 15px 8px 15px;
     box-shadow: 1px 1px 1px 1px;
 }
-.btn-primary:hover{
+.btn-primary:hover {
 	background: linear-gradient(#996, #f6f1d3, #f6f1d3, #f6f1d3, #996);
 	/*background:#ccc;*/
 	color: #000;
