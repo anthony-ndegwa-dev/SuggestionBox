@@ -101,10 +101,10 @@ textarea.teco {
 .btn-primary {
 	background-color: #033;
 	margin-top: 20px;
-	margin-left: 15%;
-	border-radius: 14px;
-    padding: 8px 15px 8px 15px;
-    box-shadow: 1px 1px 1px 1px;
+margin-left: 15%;
+border-radius: 14px;
+padding: 8px 15px 8px 15px;
+	box-shadow: 1px 1px 1px 1px;
 }
 .btn-primary:hover {
 	background: linear-gradient(#996, #f6f1d3, #f6f1d3, #f6f1d3, #996);
